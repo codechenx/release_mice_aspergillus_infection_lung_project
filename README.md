@@ -2,7 +2,7 @@
 - raw_data/lung_phyloseq.Rdata: lotus2(v2.23, uparse)
 - raw_data/gut_phyloseq.Rdata: lotus2(v2.23, uparse)
 - raw_data/lung_mebo_pre.csv: lung metabolome profiles
-- raw_data/lung_mebo_pre.csv: plasma metabolome profiles
+- raw_data/plasma_mebo_pre.csv: plasma metabolome profiles
 
 
 ### Command

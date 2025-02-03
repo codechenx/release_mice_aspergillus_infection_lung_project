@@ -1,0 +1,853 @@
+metabolite,pval,padj,py.value,comparison,FC,log2FC
+1-Methyl Adenosine,4.90E-07,1.37E-05,4.862060682,PBS vs PBS + Cortisone acetate,0.384942303,-1.377285871
+1-Methylhistidine,0.949,0.962557143,0.016573479,PBS vs PBS + Cortisone acetate,1.045149697,0.063709595
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.252,0.313894737,0.503215966,PBS vs PBS + Cortisone acetate,0.841632977,-0.248736861
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.949,0.962557143,0.016573479,PBS vs PBS + Cortisone acetate,1.004039834,0.005816507
+2-Amino-4-methylpyrimidine,0.252,0.313894737,0.503215966,PBS vs PBS + Cortisone acetate,0.885552577,-0.17535013
+2-Deoxyribose 5-phosphate,0.000276,0.001088667,2.963105074,PBS vs PBS + Cortisone acetate,0.561067846,-0.833752858
+2-Hydroxybutyric acid,0.00318,0.007785517,2.108712529,PBS vs PBS + Cortisone acetate,1.575849911,0.656130134
+Acetyl-β-methylcholine,0.847,0.925184615,0.033771598,PBS vs PBS + Cortisone acetate,0.951944169,-0.071051132
+Acetylcarnitine,0.00589,0.012299706,1.910105274,PBS vs PBS + Cortisone acetate,1.410875565,0.496590752
+Acetylcholine,4.06E-05,0.0002059,3.686343653,PBS vs PBS + Cortisone acetate,0.58115727,-0.782999464
+Allantoin,0.217,0.302098039,0.519852094,PBS vs PBS + Cortisone acetate,1.396019217,0.481318801
+Allopurinol,0.252,0.313894737,0.503215966,PBS vs PBS + Cortisone acetate,0.890086375,-0.167982752
+Arginine,0.000221,0.000980688,3.00846936,PBS vs PBS + Cortisone acetate,0.684471506,-0.54693761
+Asparagine,0.000765,0.002361522,2.626808052,PBS vs PBS + Cortisone acetate,0.74157466,-0.431336147
+Aspartic acid,0.000276,0.001088667,2.963105074,PBS vs PBS + Cortisone acetate,0.676664706,-0.563486954
+Betaine,0.000111,0.0005254,3.279509932,PBS vs PBS + Cortisone acetate,0.627820507,-0.671575942
+Butyrylcarnitine,7.74E-07,1.37E-05,4.862060682,PBS vs PBS + Cortisone acetate,2.645600492,1.403595219
+Carnitine,0.88,0.932537313,0.030333782,PBS vs PBS + Cortisone acetate,0.981904798,-0.026344942
+Choline,0.123,0.194066667,0.712049054,PBS vs PBS + Cortisone acetate,1.088586232,0.122455695
+Clomazone,0.00434,0.009629375,2.0164019,PBS vs PBS + Cortisone acetate,1.462425724,0.548363353
+Creatinine,0.234,0.313471698,0.503801663,PBS vs PBS + Cortisone acetate,1.15916598,0.21308716
+Cystine,0.00911,0.017966944,1.745525775,PBS vs PBS + Cortisone acetate,0.76229016,-0.391587841
+Cytidine,7.74E-07,1.37E-05,4.862060682,PBS vs PBS + Cortisone acetate,0.492361003,-1.022211596
+D-Glucose 6-phosphate,0.000629,0.002029955,2.692513687,PBS vs PBS + Cortisone acetate,2.128334192,1.089724701
+Dehydronorketamine,0.00111,0.0031524,2.501358681,PBS vs PBS + Cortisone acetate,2.079177613,1.056013005
+Galactosamine/Glucosamine,0.252,0.313894737,0.503215966,PBS vs PBS + Cortisone acetate,0.923175025,-0.115323901
+Glutamic acid,5.03E-06,5.10E-05,4.292271706,PBS vs PBS + Cortisone acetate,0.576992163,-0.793376372
+Glycerol 3-phosphate,7.01E-06,6.22E-05,4.20611362,PBS vs PBS + Cortisone acetate,1.799789646,0.847828298
+Glycine,0.158,0.233708333,0.631325802,PBS vs PBS + Cortisone acetate,0.907701671,-0.139709881
+Guanosine,0.000516,0.001744571,2.758311244,PBS vs PBS + Cortisone acetate,0.614117064,-0.703414404
+Histidine,0.146,0.225347826,0.647146627,PBS vs PBS + Cortisone acetate,0.871012106,-0.199235325
+Homoarginine,0.0016,0.004207407,2.375985433,PBS vs PBS + Cortisone acetate,0.613635708,-0.704545658
+Hypoxanthine,0.000421,0.00149455,2.825489551,PBS vs PBS + Cortisone acetate,0.714020713,-0.485962169
+Inosine,0.158,0.233708333,0.631325802,PBS vs PBS + Cortisone acetate,0.902582755,-0.147868881
+Isovalerylcarnitine,3.09E-07,1.37E-05,4.862060682,PBS vs PBS + Cortisone acetate,2.510077913,1.327732146
+Ketamine,0.485,0.573916667,0.241151163,PBS vs PBS + Cortisone acetate,1.374131174,0.45851973
+Lactic acid,0.0157,0.030127027,1.521043723,PBS vs PBS + Cortisone acetate,1.450138288,0.536190485
+Lysine,0.0511,0.088490244,1.053104608,PBS vs PBS + Cortisone acetate,0.776313869,-0.365288034
+Methionine sulfoxide,0.813,0.925184615,0.033771598,PBS vs PBS + Cortisone acetate,1.035364295,0.050138472
+Methylimidazoleacetic acid,0.847,0.925184615,0.033771598,PBS vs PBS + Cortisone acetate,0.974815396,-0.036799058
+"N3,N4-Dimethyl-L-arginine",0.00683,0.013855143,1.858388992,PBS vs PBS + Cortisone acetate,0.781806993,-0.355115606
+"N6,N6,N6-Trimethyl-L-lysine",0.0037,0.008756667,2.057661182,PBS vs PBS + Cortisone acetate,0.762478276,-0.391231861
+O-Acetylserine,1.31E-05,9.30E-05,4.031470356,PBS vs PBS + Cortisone acetate,0.544007459,-0.878301662
+Ornithine,0.000925,0.002736458,2.56281116,PBS vs PBS + Cortisone acetate,0.655037875,-0.610349767
+Phenylalanine,0.186,0.269510204,0.569424787,PBS vs PBS + Cortisone acetate,0.866582437,-0.206591097
+Phosphocholine,0.000421,0.00149455,2.825489551,PBS vs PBS + Cortisone acetate,2.700616219,1.433288635
+Proline,0.0016,0.004207407,2.375985433,PBS vs PBS + Cortisone acetate,0.80915372,-0.305514289
+Propionylcarnitine,0.00506,0.010886667,1.963105074,PBS vs PBS + Cortisone acetate,2.097868376,1.068924163
+Prostaglandin E2,0.621,0.722803279,0.140979886,PBS vs PBS + Cortisone acetate,1.063378933,0.08865579
+Pyroglutamic acid,1,1,0,PBS vs PBS + Cortisone acetate,1.022548923,0.03216987
+Serine,0.0367,0.0651425,1.186135578,PBS vs PBS + Cortisone acetate,0.874534305,-0.193413117
+Sugar alcohol,0.0769,0.126974419,0.896283767,PBS vs PBS + Cortisone acetate,0.873105842,-0.195771541
+Taurine,0.0568,0.096019048,1.017642606,PBS vs PBS + Cortisone acetate,1.164092194,0.219205321
+Thiamine,0.00434,0.009629375,2.0164019,PBS vs PBS + Cortisone acetate,1.449417468,0.535473186
+Threonine,0.234,0.313471698,0.503801663,PBS vs PBS + Cortisone acetate,0.900656356,-0.150951342
+Thymidine,0.88,0.932537313,0.030333782,PBS vs PBS + Cortisone acetate,1.028940553,0.041159633
+Thymine,0.847,0.925184615,0.033771598,PBS vs PBS + Cortisone acetate,1.015971835,0.022860407
+Trigonelline,2.50E-06,3.55E-05,4.449771647,PBS vs PBS + Cortisone acetate,0.53598618,-0.899732292
+Trimethylamine N-Oxide,4.06E-05,0.0002059,3.686343653,PBS vs PBS + Cortisone acetate,0.443932203,-1.171588729
+Tyrosine,0.0259,0.048392105,1.315225484,PBS vs PBS + Cortisone acetate,0.82766222,-0.27288599
+Uric acid,0.331,0.398322034,0.399765669,PBS vs PBS + Cortisone acetate,0.954923654,-0.066542701
+Uridine,0.949,0.962557143,0.016573479,PBS vs PBS + Cortisone acetate,1.048070739,0.067736094
+VLH,0.112,0.180727273,0.742976305,PBS vs PBS + Cortisone acetate,1.30067293,0.379258224
+Xanthine,2.35E-05,0.000151682,3.819066474,PBS vs PBS + Cortisone acetate,0.479348207,-1.060854058
+Xanthosine,3.58E-06,4.24E-05,4.373009875,PBS vs PBS + Cortisone acetate,0.42973692,-1.218474366
+Xylazine,0.29,0.355,0.449771647,PBS vs PBS + Cortisone acetate,1.410486636,0.496192997
+dCytidine,0.00268,0.006795714,2.167764889,PBS vs PBS + Cortisone acetate,0.755859349,-0.403810294
+dInosine,0.0367,0.0651425,1.186135578,PBS vs PBS + Cortisone acetate,0.756536881,-0.402517679
+dUridine,3.10E-05,0.000183417,3.736561203,PBS vs PBS + Cortisone acetate,0.45606678,-1.132683006
+β-Alanine,0.217,0.302098039,0.519852094,PBS vs PBS + Cortisone acetate,0.922760114,-0.11597245
+γ-Aminobutyric acid,9.62E-06,7.59E-05,4.119809089,PBS vs PBS + Cortisone acetate,0.551859588,-0.857626852
+1-Methyl Adenosine,5.80E-07,8.24E-06,5.084283662,PBS vs PBS + Cortisone acetate + Voriconazol,0.433109123,-1.207197534
+1-Methylhistidine,0.174,0.252122449,0.598388483,PBS vs PBS + Cortisone acetate + Voriconazol,1.208791999,0.273566016
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.653,0.724421875,0.140008444,PBS vs PBS + Cortisone acetate + Voriconazol,1.005656031,0.008136939
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.512,0.586322581,0.23186338,PBS vs PBS + Cortisone acetate + Voriconazol,1.173744288,0.231118137
+2-Amino-4-methylpyrimidine,0.325,0.404824561,0.392733146,PBS vs PBS + Cortisone acetate + Voriconazol,0.943582518,-0.083779406
+2-Deoxyribose 5-phosphate,0.0145,0.0257375,1.58943364,PBS vs PBS + Cortisone acetate + Voriconazol,0.651677342,-0.61777026
+2-Hydroxybutyric acid,0.000894,0.001983563,2.702554111,PBS vs PBS + Cortisone acetate + Voriconazol,1.580469464,0.660353162
+Acetyl-β-methylcholine,0.367,0.449258621,0.347503581,PBS vs PBS + Cortisone acetate + Voriconazol,0.877526464,-0.18848546
+Acetylcarnitine,1.79E-06,1.82E-05,4.74098666,PBS vs PBS + Cortisone acetate + Voriconazol,1.37070939,0.454922731
+Acetylcholine,0.000394,0.001075923,2.968218777,PBS vs PBS + Cortisone acetate + Voriconazol,0.726732845,-0.460502984
+Allantoin,0.0742,0.114526087,0.941095578,PBS vs PBS + Cortisone acetate + Voriconazol,1.655942016,0.727652156
+Allopurinol,0.161,0.238145833,0.623157013,PBS vs PBS + Cortisone acetate + Voriconazol,0.819905788,-0.28646995
+Arginine,1.55E-05,8.47E-05,4.072353305,PBS vs PBS + Cortisone acetate + Voriconazol,0.698445594,-0.517780355
+Asparagine,0.000834,0.001910129,2.718937294,PBS vs PBS + Cortisone acetate + Voriconazol,0.770824299,-0.375526044
+Aspartic acid,8.98E-05,0.00030361,3.517684609,PBS vs PBS + Cortisone acetate + Voriconazol,0.656996912,-0.606041506
+Betaine,2.04E-05,9.66E-05,4.015202743,PBS vs PBS + Cortisone acetate + Voriconazol,0.619499354,-0.690825317
+Butyrylcarnitine,5.16E-08,1.22E-06,5.913213204,PBS vs PBS + Cortisone acetate + Voriconazol,2.33304147,1.222211951
+Carnitine,0.935,0.935,0.029188389,PBS vs PBS + Cortisone acetate + Voriconazol,0.971898778,-0.041122028
+Choline,0.000478,0.001256963,2.900677519,PBS vs PBS + Cortisone acetate + Voriconazol,1.123179999,0.16758915
+Clomazone,7.12E-05,0.00025276,3.597291653,PBS vs PBS + Cortisone acetate + Voriconazol,2.046215381,1.032958009
+Creatinine,0.486,0.565672131,0.247435217,PBS vs PBS + Cortisone acetate + Voriconazol,1.016997334,0.024315897
+Cystine,0.285,0.381792453,0.418172661,PBS vs PBS + Cortisone acetate + Voriconazol,0.958221791,-0.061568473
+Cytidine,2.51E-06,2.23E-05,4.652157917,PBS vs PBS + Cortisone acetate + Voriconazol,0.565998428,-0.821130048
+D-Glucose 6-phosphate,0.000323,0.00091732,3.037479138,PBS vs PBS + Cortisone acetate + Voriconazol,2.296936498,1.199710972
+Dehydronorketamine,0.00119,0.002485,2.604673607,PBS vs PBS + Cortisone acetate + Voriconazol,2.180939187,1.124949542
+Galactosamine/Glucosamine,0.744,0.78841791,0.103243518,PBS vs PBS + Cortisone acetate + Voriconazol,0.966979526,-0.048442752
+Glutamic acid,6.55E-06,5.17E-05,4.286742861,PBS vs PBS + Cortisone acetate + Voriconazol,0.682767309,-0.550534111
+Glycerol 3-phosphate,1.55E-07,2.75E-06,5.560469944,PBS vs PBS + Cortisone acetate + Voriconazol,1.997162005,0.997951365
+Glycine,0.744,0.78841791,0.103243518,PBS vs PBS + Cortisone acetate + Voriconazol,0.98110429,-0.027521594
+Guanosine,2.04E-05,9.66E-05,4.015202743,PBS vs PBS + Cortisone acetate + Voriconazol,0.604835678,-0.725384851
+Histidine,0.305,0.386696429,0.412629839,PBS vs PBS + Cortisone acetate + Voriconazol,0.97957494,-0.029772228
+Homoarginine,0.000696,0.001704,2.76853041,PBS vs PBS + Cortisone acetate + Voriconazol,0.700587381,-0.513363092
+Hypoxanthine,0.0027,0.005477143,2.261445931,PBS vs PBS + Cortisone acetate + Voriconazol,0.820379552,-0.285636562
+Inosine,0.285,0.381792453,0.418172661,PBS vs PBS + Cortisone acetate + Voriconazol,0.880790892,-0.183128545
+Isovalerylcarnitine,1.29E-08,4.58E-07,6.339181937,PBS vs PBS + Cortisone acetate + Voriconazol,2.195147796,1.134318077
+Ketamine,0.713,0.778815385,0.108565478,PBS vs PBS + Cortisone acetate + Voriconazol,1.619802354,0.695817788
+Lactic acid,7.12E-05,0.00025276,3.597291653,PBS vs PBS + Cortisone acetate + Voriconazol,1.539528831,0.622488885
+Lysine,0.00119,0.002485,2.604673607,PBS vs PBS + Cortisone acetate + Voriconazol,0.830216429,-0.268440613
+Methionine sulfoxide,0.87,0.882428571,0.054320439,PBS vs PBS + Cortisone acetate + Voriconazol,0.95232154,-0.07047933
+Methylimidazoleacetic acid,0.305,0.386696429,0.412629839,PBS vs PBS + Cortisone acetate + Voriconazol,1.134380772,0.181904984
+"N3,N4-Dimethyl-L-arginine",0.00316,0.006232222,2.205357069,PBS vs PBS + Cortisone acetate + Voriconazol,0.81711557,-0.291387952
+"N6,N6,N6-Trimethyl-L-lysine",0.00494,0.00923,2.034798299,PBS vs PBS + Cortisone acetate + Voriconazol,0.827963689,-0.272360596
+O-Acetylserine,1.55E-05,8.47E-05,4.072353305,PBS vs PBS + Cortisone acetate + Voriconazol,0.598208139,-0.741280555
+Ornithine,7.12E-05,0.00025276,3.597291653,PBS vs PBS + Cortisone acetate + Voriconazol,0.683514353,-0.548956463
+Phenylalanine,0.305,0.386696429,0.412629839,PBS vs PBS + Cortisone acetate + Voriconazol,0.871038597,-0.199191446
+Phosphocholine,7.12E-05,0.00025276,3.597291653,PBS vs PBS + Cortisone acetate + Voriconazol,2.868861329,1.520478235
+Proline,0.000578,0.001465643,2.833971844,PBS vs PBS + Cortisone acetate + Voriconazol,0.799366088,-0.323071725
+Propionylcarnitine,1.55E-05,8.47E-05,4.072353305,PBS vs PBS + Cortisone acetate + Voriconazol,2.425870795,1.278502713
+Prostaglandin E2,0.0742,0.114526087,0.941095578,PBS vs PBS + Cortisone acetate + Voriconazol,1.195704065,0.257860369
+Pyroglutamic acid,0.461,0.545516667,0.263191976,PBS vs PBS + Cortisone acetate + Voriconazol,1.037546942,0.05317661
+Serine,0.00494,0.00923,2.034798299,PBS vs PBS + Cortisone acetate + Voriconazol,0.866042465,-0.207490328
+Sugar alcohol,0.217,0.30814,0.511251922,PBS vs PBS + Cortisone acetate + Voriconazol,0.846148924,-0.241016492
+Taurine,0.000215,0.000636042,3.196514433,PBS vs PBS + Cortisone acetate + Voriconazol,1.191797888,0.253139595
+Thiamine,8.82E-06,6.26E-05,4.203273066,PBS vs PBS + Cortisone acetate + Voriconazol,1.495902797,0.581016433
+Threonine,0.0264,0.043590698,1.36060618,PBS vs PBS + Cortisone acetate + Voriconazol,0.910676633,-0.134989229
+Thymidine,0.806,0.829362319,0.0812557,PBS vs PBS + Cortisone acetate + Voriconazol,1.126294281,0.171583828
+Thymine,0.806,0.829362319,0.0812557,PBS vs PBS + Cortisone acetate + Voriconazol,1.065880874,0.092046207
+Trigonelline,1.25E-06,1.48E-05,4.829982889,PBS vs PBS + Cortisone acetate + Voriconazol,0.462323961,-1.113023959
+Trimethylamine N-Oxide,1.29E-08,4.58E-07,6.339181937,PBS vs PBS + Cortisone acetate + Voriconazol,0.398887189,-1.325947304
+Tyrosine,0.0164,0.0284,1.54668166,PBS vs PBS + Cortisone acetate + Voriconazol,0.845992526,-0.241283177
+Uric acid,0.624,0.703238095,0.152897611,PBS vs PBS + Cortisone acetate + Voriconazol,0.994357657,-0.008163232
+Uridine,0.0295,0.047602273,1.322372312,PBS vs PBS + Cortisone acetate + Voriconazol,1.277301415,0.35309901
+VLH,0.25,0.348039216,0.458371819,PBS vs PBS + Cortisone acetate + Voriconazol,0.639821986,-0.644257527
+Xanthine,0.000113,0.000348826,3.457391044,PBS vs PBS + Cortisone acetate + Voriconazol,0.607903876,-0.718084877
+Xanthosine,0.000834,0.001910129,2.718937294,PBS vs PBS + Cortisone acetate + Voriconazol,0.585648118,-0.771894001
+Xylazine,0.389,0.468118644,0.329644062,PBS vs PBS + Cortisone acetate + Voriconazol,0.912132595,-0.132684534
+dCytidine,0.00987,0.017968462,1.745489106,PBS vs PBS + Cortisone acetate + Voriconazol,0.763747935,-0.388831521
+dInosine,0.0209,0.035330952,1.451844656,PBS vs PBS + Cortisone acetate + Voriconazol,0.757627623,-0.400439162
+dUridine,0.000113,0.000348826,3.457391044,PBS vs PBS + Cortisone acetate + Voriconazol,0.498650267,-1.003899772
+β-Alanine,0.126,0.190340426,0.720468964,PBS vs PBS + Cortisone acetate + Voriconazol,0.953109653,-0.069285893
+γ-Aminobutyric acid,3.43E-05,0.000152206,3.817567514,PBS vs PBS + Cortisone acetate + Voriconazol,0.640564219,-0.642584882
+1-Methyl Adenosine,1.20E-07,2.84E-06,5.54668166,PBS vs A. fumigatus wt + Cortisone acetate,0.443992639,-1.171392336
+1-Methylhistidine,3.47E-06,3.08E-05,4.511502163,PBS vs A. fumigatus wt + Cortisone acetate,1.834137377,0.875101701
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.987,0.987,0.005682847,PBS vs A. fumigatus wt + Cortisone acetate,1.025931734,0.036934736
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.214,0.266561404,0.574202734,PBS vs A. fumigatus wt + Cortisone acetate,1.226763684,0.294857364
+2-Amino-4-methylpyrimidine,0.021,0.037275,1.428582348,PBS vs A. fumigatus wt + Cortisone acetate,0.852038062,-0.231010215
+2-Deoxyribose 5-phosphate,0.000108,0.0005112,3.291409155,PBS vs A. fumigatus wt + Cortisone acetate,0.544512581,-0.876962713
+2-Hydroxybutyric acid,0.000628,0.002026727,2.693204688,PBS vs A. fumigatus wt + Cortisone acetate,2.198668002,1.136629774
+Acetyl-β-methylcholine,0.0427,0.070504651,1.151782232,PBS vs A. fumigatus wt + Cortisone acetate,0.604720769,-0.725658966
+Acetylcarnitine,0.00162,0.004423846,2.354199985,PBS vs A. fumigatus wt + Cortisone acetate,1.243632563,0.314560297
+Acetylcholine,9.79E-07,1.16E-05,4.93611021,PBS vs A. fumigatus wt + Cortisone acetate,0.588912078,-0.763875833
+Allantoin,0.805,0.828333333,0.081794862,PBS vs A. fumigatus wt + Cortisone acetate,1.057819473,0.081093439
+Allopurinol,0.179,0.231072727,0.63625131,PBS vs A. fumigatus wt + Cortisone acetate,1.125148284,0.170115148
+Arginine,6.34E-05,0.000346262,3.460595746,PBS vs A. fumigatus wt + Cortisone acetate,0.733820468,-0.446500949
+Asparagine,0.00851,0.017263143,1.762880136,PBS vs A. fumigatus wt + Cortisone acetate,0.790754348,-0.338698511
+Aspartic acid,0.00269,0.006585862,2.181387369,PBS vs A. fumigatus wt + Cortisone acetate,0.735998724,-0.442224831
+Betaine,4.38E-05,0.00025915,3.586448787,PBS vs A. fumigatus wt + Cortisone acetate,0.635287345,-0.654518815
+Butyrylcarnitine,0.0105,0.020708333,1.683854853,PBS vs A. fumigatus wt + Cortisone acetate,1.467595974,0.553454852
+Carnitine,0.000394,0.0013987,2.854275425,PBS vs A. fumigatus wt + Cortisone acetate,0.721562357,-0.470804019
+Choline,0.0689,0.104082979,0.982620287,PBS vs A. fumigatus wt + Cortisone acetate,0.885340117,-0.1756963
+Clomazone,0.0427,0.070504651,1.151782232,PBS vs A. fumigatus wt + Cortisone acetate,1.651453685,0.72373651
+Creatinine,0.158,0.219960784,0.65765474,PBS vs A. fumigatus wt + Cortisone acetate,1.053849956,0.075669476
+Cystine,0.24,0.279344262,0.553860245,PBS vs A. fumigatus wt + Cortisone acetate,0.911840758,-0.133146198
+Cytidine,5.63E-07,7.99E-06,5.097203261,PBS vs A. fumigatus wt + Cortisone acetate,0.575658169,-0.796715714
+D-Glucose 6-phosphate,0.000459,0.001551857,2.80914826,PBS vs A. fumigatus wt + Cortisone acetate,2.240765839,1.163991895
+Dehydronorketamine,0.129,0.18318,0.737121945,PBS vs A. fumigatus wt + Cortisone acetate,1.588923086,0.66804929
+Galactosamine/Glucosamine,0.0503,0.079362222,1.10038618,PBS vs A. fumigatus wt + Cortisone acetate,0.932804589,-0.100353209
+Glutamic acid,0.000152,0.000634824,3.197346985,PBS vs A. fumigatus wt + Cortisone acetate,0.814931957,-0.295248489
+Glycerol 3-phosphate,0.000179,0.000706056,3.151161125,PBS vs A. fumigatus wt + Cortisone acetate,1.521714176,0.605697402
+Glycine,0.00685,0.014304412,1.844529997,PBS vs A. fumigatus wt + Cortisone acetate,0.762600705,-0.391000229
+Guanosine,0.24,0.279344262,0.553860245,PBS vs A. fumigatus wt + Cortisone acetate,0.89684335,-0.15707208
+Histidine,0.0191,0.034771795,1.458772891,PBS vs A. fumigatus wt + Cortisone acetate,0.856938985,-0.222735609
+Homoarginine,0.0116,0.022259459,1.652485386,PBS vs A. fumigatus wt + Cortisone acetate,0.737905807,-0.438491425
+Hypoxanthine,1.64E-05,0.000129378,3.888140313,PBS vs A. fumigatus wt + Cortisone acetate,0.779358739,-0.35964054
+Inosine,0.08,0.115918367,0.935847744,PBS vs A. fumigatus wt + Cortisone acetate,1.247428288,0.318956881
+Isovalerylcarnitine,2.99E-05,0.000192991,3.714463148,PBS vs A. fumigatus wt + Cortisone acetate,1.665980507,0.736371521
+Ketamine,0.494,0.528791045,0.276715908,PBS vs A. fumigatus wt + Cortisone acetate,1.155437689,0.20843946
+Lactic acid,0.00108,0.003195,2.495529138,PBS vs A. fumigatus wt + Cortisone acetate,1.524778166,0.608599366
+Lysine,0.227,0.27787931,0.556143788,PBS vs A. fumigatus wt + Cortisone acetate,0.952448681,-0.070286734
+Methionine sulfoxide,1.23E-09,8.73E-08,7.05883654,PBS vs A. fumigatus wt + Cortisone acetate,2.653054849,1.407654502
+Methylimidazoleacetic acid,0.0463,0.074711364,1.126613337,PBS vs A. fumigatus wt + Cortisone acetate,1.209619349,0.274553122
+"N3,N4-Dimethyl-L-arginine",0.169,0.222203704,0.653248706,PBS vs A. fumigatus wt + Cortisone acetate,0.972697114,-0.039937458
+"N6,N6,N6-Trimethyl-L-lysine",0.438,0.493619048,0.30660809,PBS vs A. fumigatus wt + Cortisone acetate,0.94275465,-0.085045734
+O-Acetylserine,0.000152,0.000634824,3.197346985,PBS vs A. fumigatus wt + Cortisone acetate,0.731172746,-0.451715799
+Ornithine,0.000247,0.000923,3.034798299,PBS vs A. fumigatus wt + Cortisone acetate,0.703123839,-0.508149287
+Phenylalanine,0.169,0.222203704,0.653248706,PBS vs A. fumigatus wt + Cortisone acetate,0.875635506,-0.191597639
+Phosphocholine,0.000944,0.002914087,2.535497493,PBS vs A. fumigatus wt + Cortisone acetate,2.124627874,1.087210177
+Proline,0.00435,0.009651563,2.015402373,PBS vs A. fumigatus wt + Cortisone acetate,0.875328425,-0.192103675
+Propionylcarnitine,0.169,0.222203704,0.653248706,PBS vs A. fumigatus wt + Cortisone acetate,1.494670447,0.579827427
+Prostaglandin E2,0.499,0.528791045,0.276715908,PBS vs A. fumigatus wt + Cortisone acetate,0.878889785,-0.186245835
+Pyroglutamic acid,0.805,0.828333333,0.081794862,PBS vs A. fumigatus wt + Cortisone acetate,1.015080704,0.021594433
+Serine,0.0302,0.052297561,1.281518565,PBS vs A. fumigatus wt + Cortisone acetate,0.896230826,-0.158057747
+Sugar alcohol,0.0173,0.032323684,1.490479145,PBS vs A. fumigatus wt + Cortisone acetate,0.882658701,-0.180072398
+Taurine,0.00238,0.006035,2.219322726,PBS vs A. fumigatus wt + Cortisone acetate,1.154916424,0.207788454
+Thiamine,0.00343,0.007855806,2.104809225,PBS vs A. fumigatus wt + Cortisone acetate,1.334592425,0.41639922
+Threonine,0.214,0.266561404,0.574202734,PBS vs A. fumigatus wt + Cortisone acetate,0.932716127,-0.100490032
+Thymidine,0.24,0.279344262,0.553860245,PBS vs A. fumigatus wt + Cortisone acetate,1.143949469,0.194023326
+Thymine,0.33,0.377903226,0.422619401,PBS vs A. fumigatus wt + Cortisone acetate,1.099014246,0.136210088
+Trigonelline,7.39E-09,2.62E-07,6.581127209,PBS vs A. fumigatus wt + Cortisone acetate,0.210390327,-2.24885972
+Trimethylamine N-Oxide,4.21E-07,7.47E-06,5.126519547,PBS vs A. fumigatus wt + Cortisone acetate,0.355178255,-1.493384837
+Tyrosine,0.0545,0.084119565,1.075102981,PBS vs A. fumigatus wt + Cortisone acetate,0.863867668,-0.211117766
+Uric acid,0.08,0.115918367,0.935847744,PBS vs A. fumigatus wt + Cortisone acetate,0.924480564,-0.113285106
+Uridine,2.45E-05,0.00017395,3.759575567,PBS vs A. fumigatus wt + Cortisone acetate,1.591636806,0.670511166
+VLH,0.00685,0.014304412,1.844529997,PBS vs A. fumigatus wt + Cortisone acetate,0.368951884,-1.438495412
+Xanthine,2.73E-06,2.77E-05,4.557677044,PBS vs A. fumigatus wt + Cortisone acetate,0.529016655,-0.918614951
+Xanthosine,7.81E-05,0.000396079,3.402218653,PBS vs A. fumigatus wt + Cortisone acetate,0.425948721,-1.231248336
+Xylazine,0.831,0.842871429,0.074238668,PBS vs A. fumigatus wt + Cortisone acetate,0.85484435,-0.226266337
+dCytidine,0.00304,0.007194667,2.142989322,PBS vs A. fumigatus wt + Cortisone acetate,0.820740729,-0.285001547
+dInosine,0.499,0.528791045,0.276715908,PBS vs A. fumigatus wt + Cortisone acetate,0.934488598,-0.097751034
+dUridine,0.00184,0.004838519,2.315287592,PBS vs A. fumigatus wt + Cortisone acetate,0.646193769,-0.629961257
+β-Alanine,0.458,0.50809375,0.294056147,PBS vs A. fumigatus wt + Cortisone acetate,0.973258617,-0.039104882
+γ-Aminobutyric acid,0.00124,0.0035216,2.453259975,PBS vs A. fumigatus wt + Cortisone acetate,0.765932077,-0.384711635
+1-Methyl Adenosine,9.48E-06,8.41E-05,4.075023301,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.465600473,-1.10283557
+1-Methylhistidine,0.00152,0.005396,2.267928059,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.310131968,0.38971214
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.123,0.203093023,0.692304995,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.78754371,-0.344568097
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.576,0.67042623,0.173649003,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.134971512,0.182656086
+2-Amino-4-methylpyrimidine,0.313,0.419301887,0.377473183,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.064914776,0.090737978
+2-Deoxyribose 5-phosphate,0.0177,0.036961765,1.432247302,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.828873791,-0.270775649
+2-Hydroxybutyric acid,0.185,0.285543478,0.544327755,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.189668306,0.250559389
+Acetyl-β-methylcholine,0.216,0.312979592,0.50448398,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.795061453,-0.33086172
+Acetylcarnitine,1.56E-05,8.52E-05,4.069560405,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.435472192,0.521525383
+Acetylcholine,0.00236,0.007285217,2.137557484,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.765886408,-0.384797659
+Allantoin,0.261,0.356365385,0.448104488,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.283957165,0.360597073
+Allopurinol,0.526,0.632983051,0.198607919,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.961394464,-0.056799599
+Arginine,0.0158,0.033993939,1.468598504,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.755531035,-0.404437076
+Asparagine,0.176,0.277688889,0.556441497,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.838280886,-0.254494361
+Aspartic acid,0.00272,0.0077248,2.112112756,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.801626022,-0.318998753
+Betaine,1.22E-05,8.52E-05,4.069560405,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.575964168,-0.795949034
+Butyrylcarnitine,4.24E-08,1.51E-06,5.82240579,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.549959873,1.350474544
+Carnitine,0.737,0.817609375,0.087454137,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.997451121,-0.003681949
+Choline,0.000201,0.000839471,3.075994515,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.134601814,0.182186076
+Clomazone,0.00204,0.006583636,2.181534165,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.09742264,1.0686176
+Creatinine,0.39,0.485789474,0.3135519,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.03223416,0.04577028
+Cystine,0.737,0.817609375,0.087454137,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.107193703,0.146907642
+Cytidine,3.23E-06,3.82E-05,4.417690379,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.588206614,-0.765605089
+D-Glucose 6-phosphate,0.0141,0.031284375,1.504672517,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.699535583,0.765140568
+Dehydronorketamine,0.00776,0.018998621,1.721277928,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.746628072,1.457661565
+Galactosamine/Glucosamine,0.202,0.298791667,0.524631519,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.888910517,-0.1698899
+Glutamic acid,1.56E-05,8.52E-05,4.069560405,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.734251774,-0.445653249
+Glycerol 3-phosphate,2.37E-07,5.61E-06,5.25111456,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.08589104,1.060663798
+Glycine,0.882,0.934656716,0.029347869,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.989560466,-0.015140231
+Guanosine,0.37,0.469107143,0.328727954,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.924756519,-0.112854529
+Histidine,0.331,0.435203704,0.361307417,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.093684372,0.129196449
+Homoarginine,0.0365,0.070040541,1.154650511,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.745545611,-0.423631478
+Hypoxanthine,0.00997,0.022834516,1.641408187,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.847446575,-0.238805675
+Inosine,0.71,0.813064516,0.089874992,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.97450956,-0.037251757
+Isovalerylcarnitine,3.54E-09,2.51E-07,6.599738389,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.30367742,1.203938713
+Ketamine,0.835,0.898257576,0.046599111,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.242457004,0.313195927
+Lactic acid,0.000112,0.000497,3.303643611,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.547278685,0.629733068
+Lysine,0.97,0.983857143,0.007067957,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.974666153,-0.03701995
+Methionine sulfoxide,0.00884,0.020921333,1.679410641,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.420510106,0.506409096
+Methylimidazoleacetic acid,0.0365,0.070040541,1.154650511,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.17984538,0.238597805
+"N3,N4-Dimethyl-L-arginine",0.551,0.652016667,0.185741303,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.967546994,-0.047596359
+"N6,N6,N6-Trimethyl-L-lysine",0.114,0.192714286,0.71508609,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.90424447,-0.145215224
+O-Acetylserine,6.06E-05,0.000307329,3.512397063,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.690702152,-0.533864377
+Ornithine,0.0442,0.082584211,1.083102979,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.771675701,-0.373933416
+Phenylalanine,0.0695,0.120353659,0.919540703,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.126777349,0.172202467
+Phosphocholine,0.00081,0.003026842,2.519010233,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.316575264,1.211993556
+Proline,0.35,0.451818182,0.345036296,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.915429872,-0.127478725
+Propionylcarnitine,0.00272,0.0077248,2.112112756,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.033562937,1.024009642
+Prostaglandin E2,0.00469,0.0118925,1.92472684,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.300574211,0.379148722
+Pyroglutamic acid,0.202,0.298791667,0.524631519,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.088081142,0.121786147
+Serine,0.911,0.951191176,0.021732187,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.98551203,-0.021054613
+Sugar alcohol,0.0365,0.070040541,1.154650511,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.824849266,-0.277797591
+Taurine,1.22E-05,8.52E-05,4.069560405,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.18984265,0.250770798
+Thiamine,1.32E-06,2.34E-05,4.630227711,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.614296036,0.69090517
+Threonine,0.23,0.320196078,0.494583991,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.06878304,0.09596902
+Thymidine,0.00313,0.008547308,2.068170662,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.368342643,0.452429537
+Thymine,0.00204,0.006583636,2.181534165,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.317680199,0.398000271
+Trigonelline,3.23E-06,3.82E-05,4.417690379,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.549459138,-0.8639159
+Trimethylamine N-Oxide,1.56E-05,8.52E-05,4.069560405,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.479551662,-1.060241849
+Tyrosine,1,1,0,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.977248213,-0.033203053
+Uric acid,0.23,0.320196078,0.494583991,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.028132611,0.040026359
+Uridine,0.00411,0.010807778,1.966263594,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.369509673,0.453659456
+VLH,0.766,0.836707692,0.077426238,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.89840513,-0.15456193
+Xanthine,0.000491,0.001936722,2.712932664,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.603486768,-0.728605957
+Xanthosine,4.27E-06,4.33E-05,4.363411816,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.42850753,-1.222607538
+Xylazine,0.142,0.229136364,0.639905983,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.469785587,0.555605709
+dCytidine,0.941,0.968275362,0.014001119,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.999201322,-0.001152709
+dInosine,0.455,0.556982759,0.254158248,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.838449036,-0.254205
+dUridine,0.0583,0.106135897,0.974137704,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.732875581,-0.448359799
+β-Alanine,0.0637,0.1130675,0.94666221,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.097888375,0.134731379
+γ-Aminobutyric acid,9.18E-05,0.00043452,3.361990229,PBS vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.714228935,-0.485541513
+1-Methyl Adenosine,0.31,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.125127375,0.170088337
+1-Methylhistidine,0.0769,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.156573074,0.209856421
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.451,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.194886677,0.2568738
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.505,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.169021635,0.22530163
+2-Amino-4-methylpyrimidine,0.505,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.065529639,0.091570724
+2-Deoxyribose 5-phosphate,0.158,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.161494722,0.215982598
+2-Hydroxybutyric acid,0.533,0.865891304,0.062536622,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.002931468,0.004223027
+Acetyl-β-methylcholine,0.914,0.976507246,0.01032453,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.921825558,-0.117434328
+Acetylcarnitine,0.847,0.969951613,0.01324993,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.971531029,-0.041668021
+Acetylcholine,0.0367,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.250492565,0.322496479
+Allantoin,0.505,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.186188554,0.246333355
+Allopurinol,0.88,0.976507246,0.01032453,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.92115306,-0.118487198
+Arginine,0.813,0.96205,0.016802356,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.020415879,0.029157255
+Asparagine,0.561,0.865891304,0.062536622,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.039442608,0.055810103
+Aspartic acid,0.949,0.976507246,0.01032453,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.970934211,-0.042554551
+Betaine,0.683,0.914962264,0.038596817,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.986745968,-0.019249375
+Butyrylcarnitine,0.252,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.881857059,-0.181383267
+Carnitine,0.451,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.989809582,-0.014777086
+Choline,0.477,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.031778618,0.045133455
+Clomazone,0.201,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.399192689,0.484594656
+Creatinine,0.354,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.877352641,-0.188771263
+Cystine,0.0568,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.25703025,0.330019368
+Cytidine,0.354,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.149559825,0.201081548
+D-Glucose 6-phosphate,0.621,0.899816327,0.045846131,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.079217967,0.109986271
+Dehydronorketamine,1,1,0,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.048943184,0.068936537
+Galactosamine/Glucosamine,0.158,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.047449833,0.066881149
+Glutamic acid,0.0202,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.183321635,0.242842261
+Glycerol 3-phosphate,0.234,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.109664126,0.150123067
+Glycine,0.102,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.080866457,0.112188287
+Guanosine,0.78,0.96205,0.016802356,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.984886617,-0.021970447
+Histidine,0.331,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.124639869,0.169463097
+Homoarginine,0.377,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.141699174,0.191182566
+Hypoxanthine,0.146,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.148957638,0.200325607
+Inosine,0.715,0.923,0.034798299,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.975856105,-0.035259664
+Isovalerylcarnitine,0.4,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.874533728,-0.193414069
+Ketamine,0.949,0.976507246,0.01032453,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.178782917,0.237298058
+Lactic acid,0.354,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.061642771,0.0862984
+Lysine,0.949,0.976507246,0.01032453,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.069433979,0.096847421
+Methionine sulfoxide,0.561,0.865891304,0.062536622,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.919793685,-0.120617802
+Methylimidazoleacetic acid,0.31,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.163687788,0.218704041
+"N3,N4-Dimethyl-L-arginine",0.621,0.899816327,0.045846131,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.04516278,0.063727654
+"N6,N6,N6-Trimethyl-L-lysine",0.451,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.085884956,0.118871265
+O-Acetylserine,0.0932,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.099632237,0.137021107
+Ornithine,1,1,0,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.043473024,0.061393305
+Phenylalanine,0.477,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.005142223,0.007399651
+Phosphocholine,0.451,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.062298785,0.0871896
+Proline,0.813,0.96205,0.016802356,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.987903866,-0.017557436
+Propionylcarnitine,0.234,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.156350333,0.20957855
+Prostaglandin E2,0.27,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.124438362,0.169204579
+Pyroglutamic acid,0.505,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.014667287,0.02100674
+Serine,0.914,0.976507246,0.01032453,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.990289871,-0.014077212
+Sugar alcohol,0.561,0.865891304,0.062536622,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.969125258,-0.045244952
+Taurine,0.591,0.892787234,0.049252028,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.023800258,0.033934274
+Thiamine,0.377,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.032071732,0.045543246
+Threonine,0.847,0.969951613,0.01324993,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.011125528,0.015962114
+Thymidine,0.683,0.914962264,0.038596817,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.094615503,0.130424194
+Thymine,0.652,0.907686275,0.042064232,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.049124432,0.0691858
+Trigonelline,0.234,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.862566944,-0.213291666
+Trimethylamine N-Oxide,0.505,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.898531773,-0.154358575
+Tyrosine,0.652,0.907686275,0.042064232,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.022147086,0.031602813
+Uric acid,0.78,0.96205,0.016802356,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.041295451,0.058379469
+Uridine,0.0367,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.218716799,0.285362916
+VLH,0.102,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.491916124,-1.023515751
+Xanthine,0.0511,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.268188484,0.342769182
+Xanthosine,0.186,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.362806152,0.446580365
+Xylazine,0.813,0.96205,0.016802356,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,0.64667936,-0.628877531
+dCytidine,0.201,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.010436579,0.014978773
+dInosine,0.949,0.976507246,0.01032453,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.001441757,0.002078517
+dUridine,0.331,0.853690476,0.068699564,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.093371165,0.128783234
+β-Alanine,0.715,0.923,0.034798299,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.032889956,0.046686558
+γ-Aminobutyric acid,0.0697,0.7242,0.14014148,PBS + Cortisone acetate vs PBS + Cortisone acetate + Voriconazol,1.160737682,0.21504197
+1-Methyl Adenosine,0.158,0.361870968,0.441446258,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.153400485,0.205893535
+1-Methylhistidine,5.36E-07,1.90E-05,4.720606857,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.754903992,0.811392105
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.104,0.29536,0.529648321,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.218977585,0.285671597
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.158,0.361870968,0.441446258,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.221827703,0.289040857
+2-Amino-4-methylpyrimidine,0.931,0.9443,0.02489001,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.962154122,-0.055660086
+2-Deoxyribose 5-phosphate,0.666,0.875666667,0.057661182,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.970493291,-0.043209855
+2-Hydroxybutyric acid,0.18,0.399375,0.398619124,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.395226783,0.48049964
+Acetyl-β-methylcholine,0.0557,0.179759091,0.745309137,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.635248147,-0.654607833
+Acetylcarnitine,0.849,0.941859375,0.026013935,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.88146155,-0.182030455
+Acetylcholine,0.877,0.943439394,0.025285993,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.013343734,0.019123631
+Allantoin,0.138,0.349928571,0.456020596,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.757739908,-0.400225362
+Allopurinol,0.0122,0.0541375,1.266501803,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.264088875,0.3380979
+Arginine,0.691,0.876089286,0.057451631,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.072097906,0.100436661
+Asparagine,0.436,0.719906977,0.142723618,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.066317918,0.092637636
+Aspartic acid,0.259,0.497,0.303643611,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.087685995,0.121262124
+Betaine,0.849,0.941859375,0.026013935,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.011893268,0.017057127
+Butyrylcarnitine,1.27E-05,0.000300567,3.522059185,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.554730761,-0.850140367
+Carnitine,0.00876,0.041464,1.382328804,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.734859793,-0.444459077
+Choline,0.00382,0.024656364,1.608070974,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.813293509,-0.298151995
+Clomazone,0.796,0.941859375,0.026013935,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.129256452,0.175373157
+Creatinine,0.522,0.805695652,0.09382898,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.909145001,-0.137417684
+Cystine,0.306,0.529902439,0.275804082,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.196185922,0.258441643
+Cytidine,0.691,0.876089286,0.057451631,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.169179049,0.225495882
+D-Glucose 6-phosphate,0.743,0.894118644,0.048604849,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.052826125,0.074267194
+Dehydronorketamine,0.227,0.455583333,0.341432172,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.764207481,-0.387963715
+Galactosamine/Glucosamine,0.592,0.84064,0.075389949,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.010430919,0.014970692
+Glutamic acid,0.00151,0.01340125,1.872854691,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.412379594,0.498127882
+Glycerol 3-phosphate,0.0329,0.122942105,0.910299354,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.845495572,-0.242130896
+Glycine,0.0899,0.265954167,0.575193201,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.840144653,-0.251290348
+Guanosine,0.00432,0.02556,1.592439151,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.460378489,0.546342324
+Histidine,0.959,0.959,0.018181393,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.983842795,-0.023500284
+Homoarginine,0.047,0.158904762,0.798863088,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.202514452,0.266054233
+Hypoxanthine,0.904,0.943882353,0.025082134,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.091507186,0.126321628
+Inosine,0.00382,0.024656364,1.608070974,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.382065281,0.466825762
+Isovalerylcarnitine,0.00551,0.030093077,1.521533405,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.663716652,-0.591360625
+Ketamine,0.27,0.498820513,0.302055695,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.84084963,-0.25008027
+Lactic acid,0.569,0.824469388,0.083825465,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.051470869,0.07240888
+Lysine,0.192,0.413090909,0.383954362,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.226886083,0.2950013
+Methionine sulfoxide,2.87E-09,2.04E-07,6.690859755,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,2.562436103,1.35751603
+Methylimidazoleacetic acid,0.077,0.237695652,0.623978762,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.240870173,0.31135218
+"N3,N4-Dimethyl-L-arginine",0.0273,0.114017647,0.943027926,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.244165277,0.315178149
+"N6,N6,N6-Trimethyl-L-lysine",0.00621,0.031493571,1.501778087,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.236434768,0.306186127
+O-Acetylserine,0.000851,0.008631571,2.063910131,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.344049119,0.426585863
+Ornithine,0.904,0.943882353,0.025082134,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.07340944,0.102200481
+Phenylalanine,0.823,0.941859375,0.026013935,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.010446865,0.014993458
+Phosphocholine,0.436,0.719906977,0.142723618,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.78671966,-0.346078458
+Proline,0.231,0.455583333,0.341432172,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.081782612,0.113410614
+Propionylcarnitine,0.12,0.315555556,0.500924169,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.712471032,-0.489096737
+Prostaglandin E2,0.306,0.529902439,0.275804082,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.826506674,-0.274901625
+Pyroglutamic acid,0.666,0.875666667,0.057661182,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.992696467,-0.010575437
+Serine,0.823,0.941859375,0.026013935,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.024809227,0.03535537
+Sugar alcohol,0.717,0.893105263,0.049097351,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.010941239,0.015699142
+Taurine,0.931,0.9443,0.02489001,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.992117661,-0.011416867
+Thiamine,0.616,0.841076923,0.075164283,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.920778488,-0.119073967
+Threonine,0.616,0.841076923,0.075164283,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.035596009,0.05046131
+Thymidine,0.158,0.361870968,0.441446258,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.111774111,0.152863692
+Thymine,0.231,0.455583333,0.341432172,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.081736923,0.11334968
+Trigonelline,3.72E-05,0.0006603,3.180258703,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.392529387,-1.349127428
+Trimethylamine N-Oxide,0.274,0.498820513,0.302055695,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.800073192,-0.321796108
+Tyrosine,0.457,0.737431818,0.132278128,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.043744232,0.061768224
+Uric acid,0.569,0.824469388,0.083825465,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.96811987,-0.046742406
+Uridine,0.0026,0.020511111,1.688010813,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.518634904,0.602775073
+VLH,0.000629,0.008631571,2.063910131,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.283662307,-1.817753636
+Xanthine,0.569,0.824469388,0.083825465,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.103616635,0.142239107
+Xanthosine,0.875,0.943439394,0.025285993,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.991184842,-0.01277397
+Xylazine,0.12,0.315555556,0.500924169,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,0.606063417,-0.722459334
+dCytidine,0.478,0.754177778,0.122526268,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.085837901,0.118808747
+dInosine,0.0361,0.128155,0.892264445,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.235218825,0.304766645
+dUridine,0.03,0.118333333,0.926892902,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.416884097,0.502721749
+β-Alanine,0.743,0.894118644,0.048604849,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.054725495,0.076867569
+γ-Aminobutyric acid,0.000851,0.008631571,2.063910131,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate,1.387911153,0.472915217
+1-Methyl Adenosine,0.00258,0.014090769,1.851065298,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.209533142,0.274450301
+1-Methylhistidine,0.000495,0.00878625,2.056196444,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.253535232,0.326002545
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.57,0.71,0.148741651,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.935732952,-0.095831236
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.421,0.553537037,0.256853315,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.130404865,0.176839579
+2-Amino-4-methylpyrimidine,0.0233,0.068929167,1.161596972,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.202542688,0.266088108
+2-Deoxyribose 5-phosphate,0.0484,0.1073875,0.969046268,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.477314725,0.562977208
+2-Hydroxybutyric acid,0.331,0.507574468,0.294500232,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.754937573,-0.405570745
+Acetyl-β-methylcholine,0.922,0.935171429,0.02910877,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.835197566,-0.259810587
+Acetylcarnitine,0.421,0.553537037,0.256853315,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.017433591,0.024934631
+Acetylcholine,0.00461,0.023379286,1.631168762,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.317864282,0.398201804
+Allantoin,0.71,0.812555556,0.090146936,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.919727429,-0.120721728
+Allopurinol,0.493,0.636418182,0.196257421,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.080113673,0.111183153
+Arginine,0.0358,0.090778571,1.042016656,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.103816636,0.142500534
+Asparagine,0.0166,0.05612381,1.250852858,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.130406594,0.176841786
+Aspartic acid,0.0131,0.048952632,1.310223957,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.184672432,0.244488201
+Betaine,0.399,0.544788462,0.263772099,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.917402604,-0.124373092
+Butyrylcarnitine,0.544,0.689714286,0.161330779,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.963849183,-0.053120674
+Carnitine,1,1,0,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.015832822,0.022662993
+Choline,0.399,0.544788462,0.263772099,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.042270957,0.059730381
+Clomazone,0.246,0.406186047,0.391275,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.434207977,0.520254247
+Creatinine,0.399,0.544788462,0.263772099,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.890497287,-0.167316879
+Cystine,0.0019,0.01349,1.86998805,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.45245703,0.538495483
+Cytidine,0.0397,0.093956667,1.027072399,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.194665317,0.256606507
+D-Glucose 6-phosphate,0.377,0.544788462,0.263772099,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.798528535,-0.324584133
+Dehydronorketamine,0.262,0.422772727,0.373893036,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.321016567,0.401648559
+Galactosamine/Glucosamine,0.681,0.80585,0.09374579,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.962884061,-0.054565999
+Glutamic acid,0.00118,0.01349,1.86998805,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.272550688,0.347723122
+Glycerol 3-phosphate,0.215,0.381625,0.418363183,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.158963796,0.2128355
+Glycine,0.0586,0.118874286,0.92491208,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.090182487,0.12456965
+Guanosine,0.0323,0.088203846,1.054512477,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.50583101,0.590559875
+Histidine,0.00694,0.032849333,1.48347344,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.255647729,0.328431774
+Homoarginine,0.0438,0.100316129,0.998629235,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.214964516,0.280914179
+Hypoxanthine,0.161,0.300815789,0.521699372,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.186865533,0.247156493
+Inosine,0.246,0.406186047,0.391275,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.079689983,0.110617124
+Isovalerylcarnitine,0.86,0.884927536,0.053092291,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.91777128,-0.123793433
+Ketamine,0.721,0.812555556,0.090146936,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.904176419,-0.145323802
+Lactic acid,0.356,0.526583333,0.278532891,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.066986988,0.093542583
+Lysine,0.0533,0.114675758,0.940528382,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.25550527,0.328268084
+Methionine sulfoxide,0.0147,0.052185,1.282454312,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.371990625,0.456270624
+Methylimidazoleacetic acid,0.0586,0.118874286,0.92491208,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.210326985,0.275396863
+"N3,N4-Dimethyl-L-arginine",0.0358,0.090778571,1.042016656,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.237577821,0.307519247
+"N6,N6,N6-Trimethyl-L-lysine",0.336,0.507574468,0.294500232,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.185928175,0.246016637
+O-Acetylserine,0.000495,0.00878625,2.056196444,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.269655664,0.344437285
+Ornithine,0.0771,0.147948649,0.829888997,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.178062721,0.236416351
+Phenylalanine,0.0019,0.01349,1.86998805,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.300254079,0.378793564
+Phosphocholine,0.83,0.866617647,0.062172472,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.857795065,-0.221295079
+Proline,0.00222,0.014090769,1.851065298,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.131342351,0.178035564
+Propionylcarnitine,0.769,0.839984615,0.075728668,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.969347248,-0.044914521
+Prostaglandin E2,0.0261,0.074124,1.130041153,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.223058095,0.290492933
+Pyroglutamic acid,0.246,0.406186047,0.391275,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.064087123,0.089616277
+Serine,0.0131,0.048952632,1.310223957,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.126899224,0.172358504
+Sugar alcohol,0.653,0.785813559,0.104680482,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.944729982,-0.08202605
+Taurine,0.799,0.846701493,0.072269675,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.022120633,0.031565477
+Thiamine,0.297,0.4686,0.329197716,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.113755058,0.155431984
+Threonine,0.0209,0.064517391,1.190323201,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.186671291,0.246920363
+Thymidine,0.0019,0.01349,1.86998805,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.329855878,0.411269903
+Thymine,0.00138,0.01349,1.86998805,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.296965284,0.375139863
+Trigonelline,0.799,0.846701493,0.072269675,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.025136763,0.035816392
+Trimethylamine N-Oxide,0.597,0.730810345,0.136195314,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.080236259,0.11134688
+Tyrosine,0.00258,0.014090769,1.851065298,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.180733142,0.239682937
+Uric acid,0.0643,0.126813889,0.896833179,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.076664723,0.10656906
+Uridine,0.0116,0.048447059,1.314732583,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.306695839,0.385923362
+VLH,0.0397,0.093956667,1.027072399,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.690723324,-0.533820154
+Xanthine,0.0186,0.060027273,1.221651388,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.258973662,0.332248102
+Xanthosine,0.739,0.819828125,0.086277187,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.997139203,-0.004133172
+Xylazine,0.71,0.812555556,0.090146936,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.042041484,0.059412713
+dCytidine,3.29E-05,0.0023359,2.631545753,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.321940813,0.402657585
+dInosine,0.186,0.338615385,0.470293314,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.108272521,0.148312679
+dUridine,0.000233,0.0082715,2.082415726,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.606947957,0.684323206
+β-Alanine,0.00791,0.035100625,1.45468515,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.18978742,0.25070383
+γ-Aminobutyric acid,0.000707,0.0100394,1.998292242,PBS + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.294222209,0.372085339
+1-Methyl Adenosine,0.4,0.568,0.245651664,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.025128809,0.035805198
+1-Methylhistidine,4.39E-06,7.79E-05,4.108337122,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.517330838,0.601535685
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.298,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.020161667,0.028797797
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.479,0.596649123,0.224280994,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.045171164,0.063739227
+2-Amino-4-methylpyrimidine,0.382,0.553510204,0.256874368,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.902982035,-0.147230809
+2-Deoxyribose 5-phosphate,0.0253,0.074845833,1.125832372,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.83555549,-0.259192453
+2-Hydroxybutyric acid,0.438,0.586754717,0.23154341,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.391148675,0.476276612
+Acetyl-β-methylcholine,0.0545,0.143314815,0.843708913,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.689119695,-0.537173506
+Acetylcarnitine,0.438,0.586754717,0.23154341,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.907291197,-0.140362434
+Acetylcholine,0.000616,0.004859556,2.313403449,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.810355666,-0.303372848
+Allantoin,0.00764,0.031908235,1.496097214,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.638802242,-0.646558718
+Allopurinol,0.00764,0.031908235,1.496097214,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.37228972,0.456585098
+Arginine,0.73,0.78530303,0.104962727,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.050648003,0.071279406
+Asparagine,0.705,0.770076923,0.113465891,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.025855502,0.036827533
+Aspartic acid,0.0926,0.219153333,0.659251919,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.120246854,0.163816675
+Betaine,0.61,0.71,0.148741651,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.02548508,0.036306502
+Butyrylcarnitine,3.47E-06,7.79E-05,4.108337122,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.629048387,-0.668757099
+Carnitine,2.99E-05,0.00042458,3.372040467,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.742425418,-0.429681991
+Choline,3.47E-06,7.79E-05,4.108337122,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.788244198,-0.343285449
+Clomazone,0.0638,0.161778571,0.791079004,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.807077154,-0.309221499
+Creatinine,0.479,0.596649123,0.224280994,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.036236695,0.051353578
+Cystine,0.831,0.867661765,0.06164954,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.951596767,-0.071577725
+Cytidine,0.961,0.961,0.017276612,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.017066727,0.024414334
+D-Glucose 6-phosphate,0.882,0.8946,0.048371106,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.975545402,-0.035719077
+Dehydronorketamine,0.293,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.728549927,-0.456900252
+Galactosamine/Glucosamine,0.122,0.262484848,0.58089576,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.964658056,-0.051910457
+Glutamic acid,0.00548,0.025938667,1.586052352,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.19357202,0.255285621
+Glycerol 3-phosphate,0.000108,0.001278,2.893469146,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.761938277,-0.392253963
+Glycine,0.00142,0.008401667,2.075634553,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.777288116,-0.363478635
+Guanosine,0.000394,0.00349675,2.456335416,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.482788438,0.568312771
+Histidine,0.364,0.538416667,0.268881505,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.874806969,-0.192963381
+Homoarginine,0.191,0.376694444,0.424010785,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.05326734,0.074871667
+Hypoxanthine,0.169,0.352911765,0.452333864,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.949997763,-0.074003979
+Inosine,0.00946,0.033583,1.473880511,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.416259296,0.502085426
+Isovalerylcarnitine,0.00142,0.008401667,2.075634553,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.75893774,-0.397946557
+Ketamine,0.293,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.713320169,-0.487378328
+Lactic acid,0.542,0.663482759,0.178170358,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.990418715,-0.013889519
+Lysine,0.00946,0.033583,1.473880511,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.147229382,0.198153879
+Methionine sulfoxide,7.39E-09,5.25E-07,6.280097213,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,2.785881383,1.478133832
+Methylimidazoleacetic acid,0.479,0.596649123,0.224280994,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.066325681,0.092648139
+"N3,N4-Dimethyl-L-arginine",0.0191,0.061640909,1.210130965,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.190403352,0.251450494
+"N6,N6,N6-Trimethyl-L-lysine",0.00851,0.033567222,1.474084596,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.138642506,0.187314862
+O-Acetylserine,0.0021,0.011469231,1.940465709,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.222271477,0.289564756
+Ornithine,0.882,0.8946,0.048371106,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.028689209,0.040807176
+Phenylalanine,0.657,0.728859375,0.137356256,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.005277503,0.007593807
+Phosphocholine,0.0994,0.227658065,0.642716961,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.740582284,-0.433268058
+Proline,0.191,0.376694444,0.424010785,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.09502822,0.13096805
+Propionylcarnitine,0.00142,0.008401667,2.075634553,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.616137698,-0.698675286
+Prostaglandin E2,0.0253,0.074845833,1.125832372,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.735039556,-0.444106204
+Pyroglutamic acid,0.268,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.978346774,-0.031582177
+Serine,0.755,0.800074627,0.096869502,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.03485783,0.049432582
+Sugar alcohol,0.314,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.04314817,0.060944094
+Taurine,0.283,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.969053928,-0.045351141
+Thiamine,0.0926,0.219153333,0.659251919,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.892165204,-0.164617213
+Threonine,0.438,0.586754717,0.23154341,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.02420123,0.034499196
+Thymidine,0.314,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.015675466,0.022439498
+Thymine,0.479,0.596649123,0.224280994,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.031085437,0.044163881
+Trigonelline,0.000152,0.001541714,2.811996103,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.455071215,-1.135835762
+Trimethylamine N-Oxide,0.633,0.724887097,0.139729631,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.890422817,-0.167437533
+Tyrosine,0.564,0.678711864,0.168314559,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.021129196,0.030165411
+Uric acid,0.314,0.495422222,0.305024517,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.929726399,-0.105121874
+Uridine,0.114,0.2529375,0.596986778,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.246093355,0.317412156
+VLH,0.033,0.090115385,1.045201059,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.576647712,-0.794237885
+Xanthine,0.033,0.090115385,1.045201059,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.870230765,-0.200530074
+Xanthosine,0.342,0.516638298,0.286813403,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.727311687,-0.459354335
+Xylazine,0.33,0.509347826,0.292985543,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,0.937193073,-0.093581803
+dCytidine,0.61,0.71,0.148741651,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.074622518,0.103829974
+dInosine,0.0105,0.0355,1.449771647,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.233440504,0.302688128
+dUridine,0.214,0.410648649,0.386529602,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.295885736,0.373938515
+β-Alanine,0.657,0.728859375,0.137356256,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.021140237,0.030181011
+γ-Aminobutyric acid,0.00343,0.017395,1.759575567,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate,1.195714738,0.257873247
+1-Methyl Adenosine,0.0331,0.111909524,0.951132952,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.075018855,0.104361964
+1-Methylhistidine,0.0823,0.233732,0.631281825,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.083835738,0.116146124
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.278,0.459023256,0.338165311,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.78311439,-0.352705036
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.911,0.951191176,0.021732187,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.96696659,-0.048462051
+2-Amino-4-methylpyrimidine,0.027,0.1065,0.972650392,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.128586802,0.174517384
+2-Deoxyribose 5-phosphate,0.165,0.325416667,0.487560208,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.271908255,0.34699461
+2-Hydroxybutyric acid,0.131,0.275647059,0.559646637,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.752730966,-0.409793773
+Acetyl-β-methylcholine,0.71,0.826393443,0.082813138,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.906025613,-0.14237626
+Acetylcarnitine,0.433,0.640479167,0.193494992,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.047247653,0.066602652
+Acetylcholine,0.313,0.493844444,0.306409828,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.053876144,0.075705325
+Allantoin,0.246,0.426,0.370590401,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.775363601,-0.367055084
+Allopurinol,0.628,0.775083333,0.110651602,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.172566992,0.229670351
+Arginine,0.0331,0.111909524,0.951132952,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.081732123,0.113343279
+Asparagine,0.0112,0.053013333,1.275614888,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.087512274,0.121031684
+Aspartic acid,0.000112,0.0073485,2.133801301,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.220136667,0.287042753
+Betaine,0.628,0.775083333,0.110651602,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.929725212,-0.105123717
+Butyrylcarnitine,0.189,0.362675676,0.440481571,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.09297666,0.128262593
+Carnitine,0.655,0.775083333,0.110651602,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.026291157,0.037440079
+Choline,0.39,0.589148936,0.229774902,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.010169176,0.014596926
+Clomazone,0.852,0.916545455,0.037845992,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.025025351,0.035659591
+Creatinine,0.794,0.867292308,0.061834505,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.014982169,0.021454383
+Cystine,0.0894,0.235088889,0.628767897,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.155467047,0.208476115
+Cytidine,0.123,0.27290625,0.563986518,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.039237186,0.055524959
+D-Glucose 6-phosphate,0.132,0.275647059,0.559646637,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.739914048,-0.434570404
+Dehydronorketamine,0.216,0.393230769,0.405352507,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.259378569,0.332712022
+Galactosamine/Glucosamine,0.114,0.2698,0.568958055,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.919265086,-0.121447148
+Glutamic acid,0.0823,0.233732,0.631281825,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.075405579,0.104880861
+Glycerol 3-phosphate,0.97,0.97,0.013228266,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.04442756,0.062712433
+Glycine,0.766,0.863269841,0.063853431,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.008619039,0.012381364
+Guanosine,0.0141,0.06256875,1.203642521,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.528938442,0.612530322
+Histidine,0.0177,0.073923529,1.131217306,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.116488721,0.158968677
+Homoarginine,0.202,0.377421053,0.423173878,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.064172194,0.089731613
+Hypoxanthine,0.526,0.704641509,0.152031777,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.032993293,0.046830887
+Inosine,0.628,0.775083333,0.110651602,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.106402858,0.145876788
+Isovalerylcarnitine,0.655,0.775083333,0.110651602,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.049440691,0.069620636
+Ketamine,0.65,0.775083333,0.110651602,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.76704235,-0.382621861
+Lactic acid,0.737,0.843983871,0.073665853,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.005033913,0.007244183
+Lysine,0.00111,0.00985125,2.006508659,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.173990442,0.231420663
+Methionine sulfoxide,0.00609,0.030885,1.510252394,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.491628664,0.576888426
+Methylimidazoleacetic acid,0.502,0.685423077,0.164041278,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.040078789,0.056692821
+"N3,N4-Dimethyl-L-arginine",0.0365,0.117795455,0.928871468,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.184100548,0.243791593
+"N6,N6,N6-Trimethyl-L-lysine",0.551,0.724462963,0.139983812,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.092130588,0.127145372
+O-Acetylserine,0.00204,0.013167273,1.880504169,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.154618445,0.207416178
+Ornithine,0.0299,0.111731579,0.951824064,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.12898244,0.175023046
+Phenylalanine,0.000688,0.008141333,2.089304463,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.293602089,0.371393913
+Phosphocholine,0.295,0.476022727,0.322372312,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.807489453,-0.308484679
+Proline,0.00152,0.010792,1.966898063,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.14519478,0.195593
+Propionylcarnitine,0.114,0.2698,0.568958055,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.838281635,-0.254493071
+Prostaglandin E2,0.261,0.441214286,0.355350434,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.08770577,0.121288353
+Pyroglutamic acid,0.455,0.6461,0.189700259,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.048705459,0.068609537
+Serine,0.00152,0.010792,1.966898063,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.137948854,0.186435716
+Sugar alcohol,0.246,0.426,0.370590401,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.974827531,-0.036781098
+Taurine,0.911,0.951191176,0.021732187,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.998359422,-0.002368797
+Thiamine,0.794,0.867292308,0.061834505,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.079145008,0.109888738
+Threonine,0.000688,0.008141333,2.089304463,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.173614214,0.230958249
+Thymidine,0.00081,0.008215714,2.085354672,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.214906855,0.280845709
+Thymine,0.000414,0.0073485,2.133801301,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.236235898,0.305954064
+Trigonelline,0.0823,0.233732,0.631281825,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.188472119,0.249108058
+Trimethylamine N-Oxide,0.153,0.310371429,0.508118265,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.202223774,0.265705455
+Tyrosine,0.00313,0.017094615,1.767140666,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.155149937,0.208080124
+Uric acid,0.123,0.27290625,0.563986518,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.033966606,0.048189591
+Uridine,0.502,0.685423077,0.164041278,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.072189897,0.100560446
+VLH,0.97,0.97,0.013228266,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.404148575,0.489695597
+Xanthine,0.941,0.968275362,0.014001119,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.99273387,-0.01052108
+Xanthosine,0.37,0.571086957,0.243297759,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.731680879,-0.450713537
+Xylazine,0.455,0.6461,0.189700259,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.611372728,0.688290244
+dCytidine,0.000414,0.0073485,2.133801301,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.308286775,0.387678812
+dInosine,0.114,0.2698,0.568958055,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.106676962,0.146234162
+dUridine,0.00272,0.016093333,1.793353993,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.469718617,0.555539972
+β-Alanine,0.00029,0.0073485,2.133801301,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.151901433,0.204017272
+γ-Aminobutyric acid,0.0894,0.235088889,0.628767897,PBS + Cortisone acetate + Voriconazol vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.114999736,0.157043369
+1-Methyl Adenosine,0.283,0.365327273,0.437317905,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.0486671,0.068556766
+1-Methylhistidine,0.00159,0.007055625,2.15146451,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.714304166,-0.48538956
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",0.0744,0.161474286,0.791896628,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.767637538,-0.381502833
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.497,0.598084746,0.223237274,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.925175343,-0.112201278
+2-Amino-4-methylpyrimidine,0.00159,0.007055625,2.15146451,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.249844137,0.321748193
+2-Deoxyribose 5-phosphate,0.0107,0.042205556,1.374630379,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.522230744,0.606187063
+2-Hydroxybutyric acid,0.0251,0.074254167,1.129279172,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.541085924,-0.886070385
+Acetyl-β-methylcholine,0.0386,0.101503704,0.993518111,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.314757973,0.394797246
+Acetylcarnitine,0.158,0.228938776,0.640280644,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.154257483,0.206965086
+Acetylcholine,1.37E-05,0.000243175,3.614081075,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.300510614,0.379078173
+Allantoin,0.198,0.275647059,0.559646637,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.213777207,0.279503634
+Allopurinol,0.0851,0.1633,0.787013815,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.854460232,-0.226914747
+Arginine,0.117,0.197222222,0.705044152,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.029585665,0.042063873
+Asparagine,0.0971,0.1723525,0.763582413,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.060102784,0.084204151
+Aspartic acid,0.0851,0.1633,0.787013815,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.08916768,0.123226078
+Betaine,0.326,0.406070175,0.391398907,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.90661993,-0.141430219
+Butyrylcarnitine,1.81E-06,0.000122475,3.911952552,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.737508086,0.797019692
+Carnitine,0.000192,0.001704,2.76853041,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.382349166,0.46712207
+Choline,3.45E-06,0.000122475,3.911952552,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.281543434,0.357882375
+Clomazone,0.11,0.190487805,0.720132823,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.270046298,0.34488109
+Creatinine,0.577,0.671590164,0.172895673,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.979488735,-0.029899195
+Cystine,0.0744,0.161474286,0.791896628,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.214240198,0.28005384
+Cytidine,0.27,0.355,0.449771647,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.021798431,0.031110625
+D-Glucose 6-phosphate,0.209,0.285365385,0.544598709,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.75846193,-0.398851327
+Dehydronorketamine,0.0794,0.161474286,0.791896628,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.728609834,0.789612274
+Galactosamine/Glucosamine,0.988,0.988,0.005243055,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.952943979,-0.069536691
+Glutamic acid,0.125,0.197222222,0.705044152,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.900997645,-0.15040476
+Glycerol 3-phosphate,0.000143,0.001450429,2.838503654,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.370750876,0.454966396
+Glycine,0.000256,0.002019556,2.694744195,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.297612839,0.375859999
+Guanosine,0.988,0.988,0.005243055,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.031123795,0.044217551
+Histidine,0.00125,0.006826923,2.165774991,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.276268663,0.351932058
+Homoarginine,0.988,0.988,0.005243055,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.010353359,0.014859946
+Hypoxanthine,0.0796,0.161474286,0.791896628,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.087363921,0.120834865
+Inosine,0.125,0.197222222,0.705044152,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.781214895,-0.356208638
+Isovalerylcarnitine,0.000665,0.004292273,2.367312691,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.382775735,0.467567192
+Ketamine,0.551,0.652016667,0.185741303,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.075312858,0.104756468
+Lactic acid,0.798,0.871661538,0.059652117,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.014756585,0.021133703
+Lysine,0.373,0.456603448,0.340460813,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.023326686,0.033266784
+Methionine sulfoxide,5.55E-05,0.00065675,3.182599919,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.535424327,-0.901245406
+Methylimidazoleacetic acid,0.964,0.988,0.005243055,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.97538567,-0.035955318
+"N3,N4-Dimethyl-L-arginine",0.798,0.871661538,0.059652117,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.994705321,-0.007658901
+"N6,N6,N6-Trimethyl-L-lysine",0.187,0.26554,0.575870049,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.95915143,-0.06016949
+O-Acetylserine,0.141,0.217630435,0.66228037,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.94464975,-0.082148578
+Ornithine,0.0744,0.161474286,0.791896628,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.097496144,0.13421587
+Phenylalanine,0.00039,0.002769,2.557677044,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.28681094,0.363800106
+Phosphocholine,0.598,0.684806452,0.164432157,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.090344005,0.124783379
+Proline,0.0219,0.067604348,1.170025372,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.04581303,0.06462495
+Propionylcarnitine,0.0971,0.1723525,0.763582413,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.360542681,0.444182215
+Prostaglandin E2,0.00141,0.007055625,2.15146451,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.479792157,0.565394558
+Pyroglutamic acid,0.0796,0.161474286,0.791896628,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.071915896,0.100191714
+Serine,0.0129,0.043614286,1.360371236,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.099618538,0.137003134
+Sugar alcohol,0.964,0.988,0.005243055,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.934505336,-0.097725193
+Taurine,0.244,0.326867925,0.485627695,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.030241345,0.042982344
+Thiamine,0.033,0.09372,1.02816772,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.209579799,0.27450595
+Threonine,0.0129,0.043614286,1.360371236,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.145882449,0.196459052
+Thymidine,0.0386,0.101503704,0.993518111,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.196156544,0.258406211
+Thymine,0.0129,0.043614286,1.360371236,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.198965531,0.261790183
+Trigonelline,6.36E-06,0.00015052,3.82240579,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.611617873,1.38494382
+Trimethylamine N-Oxide,0.125,0.197222222,0.705044152,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.350171796,0.433142988
+Tyrosine,0.0141,0.045504545,1.341945219,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.131247586,0.177914713
+Uric acid,0.00125,0.006826923,2.165774991,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.112119229,0.153311466
+Uridine,0.311,0.394303571,0.404169289,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.860441068,-0.216851711
+VLH,0.149,0.225085106,0.647653241,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,2.435019764,1.283933482
+Xanthine,0.0485,0.122982143,0.910157944,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.140770828,0.190008994
+Xanthosine,0.915,0.984318182,0.006864493,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.006007317,0.008640798
+Xylazine,0.0603,0.147631034,0.830822337,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.719360475,0.781872047
+dCytidine,3.35E-05,0.0004757,3.322666849,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.217438452,0.283848838
+dInosine,0.707,0.796777778,0.098662787,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.89722768,-0.156453966
+dUridine,0.0971,0.1723525,0.763582413,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.134142136,0.181601457
+β-Alanine,0.00252,0.010524706,1.977790032,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,1.128054101,0.173836261
+γ-Aminobutyric acid,0.158,0.228938776,0.640280644,A. fumigatus wt + Cortisone acetate vs A. fumigatus wt + Cortisone acetate + Voriconazol,0.932496439,-0.100829878
+1-Methyl Adenosine,7.30E-07,3.46E-06,5.46151005,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.36150807,1.239708466
+1-Methylhistidine,3.83E-06,1.24E-05,4.907965558,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.484858664,0.570325615
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",6.47E-08,6.56E-07,6.182935411,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.311030095,-1.684873912
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.5,0.563492063,0.249112196,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.175049378,0.232721384
+2-Amino-4-methylpyrimidine,0.000851,0.00140514,2.852280547,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.295385017,0.373380962
+2-Deoxyribose 5-phosphate,6.85E-07,3.46E-06,5.46151005,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.012548406,-6.316352028
+2-Hydroxybutyric acid,0.0136,0.020116667,1.69644398,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.59439223,-0.750512839
+Acetyl-β-methylcholine,0.0557,0.071903636,1.143249146,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.261763965,0.335442054
+Acetylcarnitine,0.592,0.646646154,0.189333301,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.979447622,-0.029959752
+Acetylcholine,0.158,0.186966667,0.728235815,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.146648795,0.197423579
+Allantoin,0.104,0.12954386,0.887583168,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.450099494,0.53615189
+Allopurinol,0.000539,0.000911167,3.040402176,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.428095617,-1.223995032
+Arginine,1.98E-05,4.53E-05,4.343438155,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.537144923,0.62025319
+Asparagine,4.93E-06,1.52E-05,4.817622568,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.454955229,0.54097476
+Aspartic acid,0.0026,0.004013043,2.396526135,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.190677886,0.251783174
+Betaine,0.015,0.020882353,1.680220568,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.217155605,0.283513618
+Butyrylcarnitine,0.931,0.931,0.031050319,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.038894336,0.055048928
+Carnitine,0.0167,0.022801923,1.642028524,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.159992736,0.214115771
+Choline,0.000539,0.000911167,3.040402176,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.157944644,0.211566287
+Clomazone,1.01E-05,2.66E-05,4.575784042,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.82038121,1.495890174
+Creatinine,2.27E-06,8.48E-06,5.071469395,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.596487977,0.674901688
+Cystine,3.54E-06,1.24E-05,4.907965558,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.113724931,-3.136379534
+Cytidine,1.31E-06,5.17E-06,5.286742861,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.529765996,0.613310985
+D-Glucose 6-phosphate,0.0899,0.113980357,0.943169987,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.883819541,-0.178176265
+Dehydronorketamine,1.44E-09,5.11E-08,7.291409155,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,16.3873641,4.034511911
+Galactosamine/Glucosamine,3.83E-06,1.24E-05,4.907965558,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.787842806,-0.34402029
+Glutamic acid,0.000239,0.000446553,3.350127347,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.401973118,0.487458686
+Glycerol 3-phosphate,1.59E-05,3.76E-05,4.424465782,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.527813226,0.611468186
+Glycine,6.74E-05,0.000129335,3.888283479,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.21595442,0.28208915
+Guanosine,0.769,0.802926471,0.095324224,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.039858758,0.056387584
+Histidine,0.000392,0.000713641,3.146520191,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.313420503,0.393328882
+Homoarginine,0.616,0.652776119,0.185235742,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.08018831,0.11128284
+Hypoxanthine,0.015,0.020882353,1.680220568,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.565599105,-0.822148257
+Inosine,0.0185,0.024783019,1.605845792,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.47603425,-1.070862718
+Isovalerylcarnitine,0.904,0.916914286,0.037671261,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.907423567,-0.140151966
+Ketamine,0.612,0.652776119,0.185235742,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.785935702,-0.347516805
+Lactic acid,0.00782,0.011813191,1.927632756,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.226729818,0.294817536
+Lysine,1.27E-05,3.11E-05,4.507335928,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.730541647,0.791223661
+Methionine sulfoxide,1.44E-09,5.11E-08,7.291409155,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.649532193,1.405737657
+Methylimidazoleacetic acid,0.0361,0.047464815,1.323628209,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.307970532,0.387330038
+"N3,N4-Dimethyl-L-arginine",5.55E-05,0.000109458,3.960751169,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.531250538,0.614710351
+"N6,N6,N6-Trimethyl-L-lysine",0.00114,0.001839545,2.735289476,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.286582472,0.36354394
+O-Acetylserine,3.72E-05,7.55E-05,4.122266756,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.545103944,0.627703896
+Ornithine,3.72E-05,7.55E-05,4.122266756,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.594495972,0.673100453
+Phenylalanine,3.91E-07,2.31E-06,5.63574614,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.592116477,0.670945886
+Phosphocholine,0.169,0.196704918,0.706184782,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.636307276,-0.652204477
+Proline,1.72E-08,2.44E-07,6.612183209,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.456510403,0.542516006
+Propionylcarnitine,0.158,0.186966667,0.728235815,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.524678229,0.608504806
+Prostaglandin E2,1.01E-08,1.79E-07,6.746480269,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.846061463,0.884450587
+Pyroglutamic acid,1.39E-07,9.87E-07,6.005726851,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.500564818,0.585505638
+Serine,9.63E-08,7.60E-07,6.119357874,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.490643121,0.5759349
+Sugar alcohol,0.00199,0.003139778,2.503101089,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.802821626,-0.316848615
+Taurine,0.796,0.819072464,0.086677674,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.935376406,-0.096381056
+Thiamine,1.27E-05,3.11E-05,4.507335928,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.436763144,0.522822248
+Threonine,2.45E-05,5.27E-05,4.278089507,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.351121996,0.434157945
+Thymidine,9.81E-07,4.35E-06,5.361192627,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.914554705,0.937008883
+Thymine,1.31E-06,5.17E-06,5.286742861,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.763335273,0.818306809
+Trigonelline,2.45E-05,5.27E-05,4.278089507,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.601434884,0.679365137
+Trimethylamine N-Oxide,0.015,0.020882353,1.680220568,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.618292938,-0.693637568
+Tyrosine,7.30E-07,3.46E-06,5.46151005,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.573724801,0.654183277
+Uric acid,8.00E-06,2.27E-05,4.643591673,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.272723076,0.347918546
+Uridine,9.63E-08,7.60E-07,6.119357874,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,3.019236077,1.594183567
+VLH,0.129,0.157913793,0.801579935,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.738365753,-0.437592456
+Xanthine,6.30E-06,1.86E-05,4.729612344,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.916130922,0.938196139
+Xanthosine,0.259,0.296596774,0.527833577,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.136144139,0.184145876
+Xylazine,0.592,0.646646154,0.189333301,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.209374562,0.274261139
+dCytidine,2.00E-07,1.29E-06,5.889104341,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.738916749,0.798188865
+dInosine,0.000461,0.000818275,3.087100717,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.34801977,-1.522758833
+dUridine,6.47E-08,6.56E-07,6.182935411,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,6.118697742,2.613224633
+β-Alanine,5.75E-09,1.36E-07,6.866195061,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.470765244,0.556566989
+γ-Aminobutyric acid,1.01E-05,2.66E-05,4.575784042,PBS + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.525172966,0.608972864
+1-Methyl Adenosine,2.40E-06,5.33E-06,5.273680388,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.047431139,1.033814931
+1-Methylhistidine,0.0402,0.051894545,1.284878288,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.8461196,-0.24106649
+"10-(Hydroxymethyl)-4-methyl-8,11-dioxa-2,6-diazatricyclo[7.2.1.02,7]dodeca-3,6-dien-5-one",2.64E-07,7.21E-07,6.142111072,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.255156534,-1.970545509
+2'-Deoxycytidine 5'-monophosphate (dCMP),0.398,0.428151515,0.368402515,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.961714467,-0.056319473
+2-Amino-4-methylpyrimidine,0.000119,0.000216641,3.664259297,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.346338375,0.429041048
+2-Deoxyribose 5-phosphate,4.95E-08,2.34E-07,6.630227711,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.012929926,-6.273142173
+2-Hydroxybutyric acid,0.000372,0.000628857,3.201448002,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.426018363,-1.231012479
+Acetyl-β-methylcholine,0.000177,0.000314175,3.502828376,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.986253673,0.990049887
+Acetylcarnitine,0.165,0.19525,0.709408957,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.111163183,0.152070703
+Acetylcholine,0.00177,0.00267383,2.572866243,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.131549697,0.178299948
+Allantoin,2.14E-05,4.34E-05,4.362395922,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.913716671,0.936377252
+Allopurinol,6.53E-08,2.80E-07,6.55311577,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.338659429,-1.562092931
+Arginine,2.88E-06,6.20E-06,5.207863103,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.4337729,0.519816529
+Asparagine,2.90E-05,5.56E-05,4.254545377,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.364466642,0.448337125
+Aspartic acid,0.0132,0.018023077,1.744171064,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.094688993,0.130521051
+Betaine,0.0375,0.049305556,1.307104143,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.20284979,0.266456492
+Butyrylcarnitine,9.92E-09,6.40E-08,7.193622664,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.872790206,0.905189295
+Carnitine,2.02E-09,2.05E-08,7.688488322,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.578522525,0.658574848
+Choline,1.02E-10,3.62E-09,8.441171475,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.423772145,0.509718281
+Clomazone,2.00E-06,4.72E-06,5.326236125,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.497555984,1.320517017
+Creatinine,3.94E-08,2.00E-07,6.699373465,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.756032289,0.812319372
+Cystine,2.06E-06,4.72E-06,5.326236125,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.095072956,-3.394821178
+Cytidine,8.34E-08,3.12E-07,6.506329202,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.308410374,0.387815103
+D-Glucose 6-phosphate,0.0559,0.069629825,1.157204699,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.839473414,-0.252443459
+Dehydronorketamine,6.70E-08,2.80E-07,6.55311577,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,21.44360598,4.422475626
+Galactosamine/Glucosamine,0.00116,0.001830222,2.737496176,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.779709717,-0.358990981
+Glutamic acid,0.659,0.668414286,0.174954277,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.992631955,-0.010669196
+Glycerol 3-phosphate,2.76E-10,6.53E-09,8.184953824,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.807003226,0.853599081
+Glycine,7.37E-09,5.23E-08,7.281274163,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.44731555,0.533379499
+Guanosine,0.000668,0.001077909,2.967417865,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.712047436,-0.48995474
+Histidine,6.00E-05,0.000112105,3.950373998,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.334990214,0.416829166
+Homoarginine,0.0559,0.069629825,1.157204699,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.898274701,-0.154771393
+Hypoxanthine,0.0112,0.015592157,1.807093805,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.518181751,-0.948469886
+Inosine,6.18E-07,1.57E-06,5.804911208,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.344436878,-1.53768848
+Isovalerylcarnitine,0.000668,0.001077909,2.967417865,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.367185176,0.45120866
+Ketamine,0.524,0.547117647,0.261919277,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.934692333,-0.097436534
+Lactic acid,0.0304,0.040724528,1.390143937,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.166679795,0.222408656
+Lysine,2.49E-05,4.91E-05,4.308844805,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.410515345,0.496222361
+Methionine sulfoxide,0.565,0.581376812,0.235542294,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.033989565,0.048221627
+Methylimidazoleacetic acid,0.738,0.738,0.131943638,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.054075246,0.075977858
+"N3,N4-Dimethyl-L-arginine",0.00239,0.003535208,2.451584988,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.230745276,0.299532202
+"N6,N6,N6-Trimethyl-L-lysine",0.383,0.418353846,0.378456234,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.04055831,0.057357812
+O-Acetylserine,0.165,0.19525,0.709408957,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.149588897,0.201118033
+Ornithine,4.12E-06,8.60E-06,5.065323352,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.485449925,0.570899972
+Phenylalanine,1.34E-07,4.14E-07,6.383364689,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.575655814,0.655952428
+Phosphocholine,0.478,0.506537313,0.295388557,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.808810696,-0.306126019
+Proline,2.02E-09,2.05E-08,7.688488322,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.346398423,0.429105392
+Propionylcarnitine,0.00129,0.001991087,2.700909773,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.139986273,1.097601542
+Prostaglandin E2,7.37E-09,5.23E-08,7.281274163,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.23357115,1.159352212
+Pyroglutamic acid,1.41E-09,2.00E-08,7.698492543,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.511604873,0.596081075
+Serine,1.76E-08,9.61E-08,7.017172336,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.454556694,0.540579529
+Sugar alcohol,0.00513,0.0072846,2.137594291,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.794132829,-0.332547758
+Taurine,0.355,0.393828125,0.404693272,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.942807938,-0.08496419
+Thiamine,1.06E-07,3.58E-07,6.445655081,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.560378704,0.641896214
+Threonine,3.29E-07,8.65E-07,6.062909517,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.304680574,0.383696634
+Thymidine,1.69E-07,4.80E-07,6.318794955,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.722071675,0.784145191
+Thymine,1.34E-07,4.14E-07,6.383364689,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.630096223,0.704957128
+Trigonelline,9.72E-10,1.73E-08,7.763135378,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,4.079783415,2.028492565
+Trimethylamine N-Oxide,0.221,0.257229508,0.589679213,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.772795469,-0.37184146
+Tyrosine,1.06E-07,3.58E-07,6.445655081,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.507768621,0.592415053
+Uric acid,8.34E-08,3.12E-07,6.506329202,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.314633771,0.394660952
+Uridine,0.00033,0.000571463,3.243011568,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.988125038,0.991408494
+VLH,0.00427,0.006187143,2.208509856,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,2.602974502,1.38016118
+Xanthine,7.57E-07,1.85E-06,5.73204377,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.736228743,0.795957031
+Xanthosine,0.285,0.326370968,0.486288481,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.1462485,0.196919846
+Xylazine,0.0911,0.111518966,0.952651268,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.995458774,0.996720473
+dCytidine,7.37E-09,5.23E-08,7.281274163,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.601451512,0.679380118
+dInosine,1.69E-07,4.80E-07,6.318794955,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,0.281747462,-1.827525478
+dUridine,1.76E-08,9.61E-08,7.017172336,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,4.318417966,2.110502884
+β-Alanine,5.80E-11,3.62E-09,8.441171475,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.394453108,0.479699421
+γ-Aminobutyric acid,0.301,0.339222222,0.469515705,A. fumigatus wt + Cortisone acetate vs A. fumigatus delta_pptA + Corisone acetate,1.098898126,0.136057647

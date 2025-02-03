@@ -1,0 +1,35 @@
+load_and_preprocessing_data:
+  script: 0.load_and_preprocessing_data.R
+  store: cache/0.load_and_preprocessing_data
+  use_crew: yes
+  workers: '20'
+fig1:
+  script: 1.fig1.R
+  store: cache/1.fig1
+  use_crew: yes
+  workers: '20'
+fig2:
+  script: 2.fig2.R
+  store: cache/2.fig2
+  use_crew: yes
+  workers: '20'
+fig3:
+  script: 3.fig3.R
+  store: cache/3.fig3
+  use_crew: yes
+  workers: '20'
+fig4:
+  script: 4.fig4.R
+  store: cache/4.fig4
+  use_crew: yes
+  workers: '20'
+fig5:
+  script: 5.fig5.R
+  store: cache/5.fig5
+  use_crew: yes
+  workers: '20'
+supplementary:
+  script: 99.supplementary.R
+  store: cache/99.supplementary
+  use_crew: yes
+  workers: '1'
